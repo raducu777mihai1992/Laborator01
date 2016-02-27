@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.lab01;
+package ro.pub.cs.systems.eim.lab01.myfirstandroidapplication;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -59,3 +59,4 @@ public class MainActivity extends Activity {
         return super.onOptionsItemSelected(item);
     }
 }
+
